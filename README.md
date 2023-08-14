@@ -34,6 +34,6 @@ Next, open the "camera_fake.py" file in your code editor and modify the width an
 
 ## Questions
 
-For more details, you can watch my video on the Bilibili [link ↗](https://www.bilibili.com)
+For more details, you can watch my video on the Bilibili [link ↗](https://www.bilibili.com/video/BV1dN411z71V/?vd_source=bf9147d0dabead592449686a06320ab8#reply489826054)
 
 Any questions or , you can contact me through 1654759534@qq.com. I will replay when I see it.
